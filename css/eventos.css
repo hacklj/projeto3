@@ -1,0 +1,20 @@
+div.m1{
+    display:inline;
+
+    width: 300px;
+    height: 300px;
+    padding: 0px;
+    margin-left: 100px;
+   
+}
+img{
+    margin: 5px;
+
+    
+}
+div#img1{
+    padding-right: 1px;
+}
+.text-center{
+    font-size: 80px;
+}
